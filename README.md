@@ -1,4 +1,4 @@
-# Angular-VS-React
+# Angular VS React
 
 This project accompanies the [Jami Bot](https://jamibot.com) YouTube video comparing [Angular VS React](https://youtu.be/a1sb-xfYS8M).
 
